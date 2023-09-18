@@ -1,0 +1,8 @@
+python-dotenv
+fastapi
+uvicorn
+datetime
+openai
+pytest
+httpx
+pathlib
