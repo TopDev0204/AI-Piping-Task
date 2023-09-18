@@ -2,13 +2,13 @@
 
 This project is a simple FastAPI application that serves an endpoint to recommend three things to do in a given country during a specific season by consulting the OpenAI API. It integrates with the OpenAI GPT API to generate personalized travel recommendations based on the user's inputs.
 
-
 # Getting Started
 
 Clone the repository.
 
 ```shell
-$ git clone https://github.com/TopDev0204/AI-Piping-Task.git
+$ git clone https://github.com/TopDev0204/Ai-piping-task.git
+
 
 ```
 
@@ -17,6 +17,7 @@ $ git clone https://github.com/TopDev0204/AI-Piping-Task.git
 ```bash
 docker-compose up --build
 ```
+
 ## Prerequisties
 
 - You need to install docker-compose.
@@ -33,6 +34,7 @@ localhost:3000
 ```bash
 localhost:8000
 ```
+
 ## Test
 
 ```bash
